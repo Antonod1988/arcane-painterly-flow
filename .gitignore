@@ -1,0 +1,8 @@
+work/
+out/
+captioned/
+__pycache__/
+*.npy
+*.blend
+*.blend1
+*.lock
